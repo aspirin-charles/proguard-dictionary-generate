@@ -1,6 +1,6 @@
 # proguard-dictionary-generate
 
-受到 https://github.com/PureWriter/proguard-dict、https://github.com/ionull/proguard-dictionary-generator 启发，编写 shell 语言脚本方便使用。
+受到 `https://github.com/PureWriter/proguard-dict`、`https://github.com/ionull/proguard-dictionary-generator` 启发，编写 shell 语言脚本方便使用。
 
 ## 使用
 
